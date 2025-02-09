@@ -7,8 +7,3 @@ core1: semantic_scholar_tokens
 core2: semantic_scholar_tokens_all
 
 All year index is string type.
-
-
-
-absolute-percent:
-relative-percent:
