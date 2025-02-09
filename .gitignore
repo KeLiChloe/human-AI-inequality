@@ -1,0 +1,7 @@
+data/
+data_without_filtering/
+database/
+.png
+meta_data/
+models
+test/
